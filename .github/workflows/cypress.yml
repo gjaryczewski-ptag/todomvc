@@ -1,4 +1,4 @@
-name: Cypress Tests
+name: Cypress Tests (for recording)
 on: [push]
 jobs:
   cypress-run:
